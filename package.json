@@ -1,0 +1,11 @@
+{
+  "name": "updated-default-setup",
+  "version": "1.0.0",
+  "description": "Base install scripts to create package.json and install plugins and config files",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
